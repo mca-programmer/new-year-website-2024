@@ -291,7 +291,7 @@ main {
   display: flex;
   gap: 24px;
   flex-wrap: wrap;
-  margin-bottom: 120px;
+  margin: 120px 140px;
 }
 .s6p-img {
   width: 424px;
